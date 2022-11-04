@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(10, 171, 235);
+  }
+
+.jesus{
+    width:1488px;
+    height:2000px;
+    background-image: url(jesus.jpg);
+    margin: 210px ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    
+}
+
+
+
+.bed{
+    background-image: url(Bed.gif);
+    height:250px;
+    width:500px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+}
+
+h1{
+    color: rgb(218, 233, 10);
+    text-align:center;
+}
+
+h2{
+    color:rgb(218, 233, 10);
+    font-size:100px;
+    text-align: center;
+}
